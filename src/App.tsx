@@ -1,4 +1,4 @@
-import 'regenerator-runtime/runtime' // avoid error: regeneratorRuntime is not defined
+// import 'regenerator-runtime/runtime' // avoid error: regeneratorRuntime is not defined
 
 import * as React from 'react'
 import {useEffect, useRef, useState} from "react"
